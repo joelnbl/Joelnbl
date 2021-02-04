@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   Jr Software Developer 
+   Software Engineering 
 </p>
 
 
