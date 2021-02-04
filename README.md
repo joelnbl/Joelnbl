@@ -2,7 +2,7 @@
 
 <p align="center">
     <img
-        src="./photo.jpg"
+        src="https://pbs.twimg.com/profile_images/1340395284329877506/1ENz2rch_400x400.jpg"
         width="160"
         alt="Joel Profile Picture">
 </p>
