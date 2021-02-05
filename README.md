@@ -1,15 +1,9 @@
-<h2> Hello👋 My name is Joel, I am a Jr FullStack Developer </h2>
+<h3 align="center"> Hi there, Welcome to my GitHub 👋</h3>
 
-<p align="center">
-    <img
-        src="https://pbs.twimg.com/profile_images/1340395284329877506/1ENz2rch_400x400.jpg"
-        width="160"
-        alt="Joel Profile Picture">
-</p>
+## About me :electron:
+I am a Software Development, currently studying web technologies. As a front end web developer I be able to build creative solves and maintaining websites using the best practices in the scope. Passionate about team working and build new skills.
 
-<p align="center">
-   Software Engineering 
-</p>
+**No amount of knowledge is enough knowledge, never stop learning**. 🧠
 
 
 [![Linkedin: joelnbl](https://img.shields.io/badge/-joelnbl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelnbl/)](https://www.linkedin.com/in/joelnbl/) &nbsp;
