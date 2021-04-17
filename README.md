@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, Welcome to my GitHub 👋</h3>
 
 ## About me :electron:
-I am a Software Developer, currently studying web technologies. As a front end web developer I be able to build creative solves and maintaining websites using the best practices in the scope. Passionate about team working and build new skills.
+I am a Developer, currently studying web technologies. As a front end web developer I be able to build creative solves and maintaining websites using the best practices in the scope. Passionate about team working and build new skills.
 
 **No amount of knowledge is enough knowledge, never stop learning**. 🧠
 
