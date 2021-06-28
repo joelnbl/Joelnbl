@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/joelnbl/">
   <img align="left" alt="Joelnbl Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/joelnbl">
-  <img align="left" alt="Joelnbl Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
