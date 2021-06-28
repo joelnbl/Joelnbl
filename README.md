@@ -1,24 +1,59 @@
-<h3 align="center"> Hi there, Welcome to my GitHub 👋</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/joelnbl">
+  <img align="left" alt="Joelnbl Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joelnbl/">
+  <img align="left" alt="Joelnbl Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-## About me :electron:
-I am a Developer, currently studying web technologies. As a front end web developer I be able to build creative solves and maintaining websites using the best practices in the scope. Passionate about team working and build new skills.
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-**No amount of knowledge is enough knowledge, never stop learning**. 🧠
+<br />
 
-
-[![Linkedin: joelnbl](https://img.shields.io/badge/-joelnbl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelnbl/)](https://www.linkedin.com/in/joelnbl/) &nbsp;
-[![GitHub joelnbl](https://img.shields.io/github/followers/joelnbl?label=follow&style=social)](https://github.com/joelnbl) &nbsp;
-[![Twitter: joelnbl](https://img.shields.io/badge/-joelnbl-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joelnbl)](https://twitter.com/joelnbl)
+Hi, I'm [Joel Bello](https://joelnbl.netlify.app/), a passionate self-taught Full Stack developer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-### 💚 Some things i love...  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 Any freelance work? Do reach, [email](mailto:joelumc@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
-```javascript
-const joelNbl = {
-  code: [HTML, CSS, Javascript, jQuery, TypeScript, React, Ionic, Vue.js, Firebase, Node.js, NestJs, Python, MySQL, PostgreSQL],
-  tools: [Git, Jira, Confluence, Slack, BitBucket, WebStorm],
-  SO: [Windows, Linux, Mac OS],
-  design: [Adobe XD, Figma, Adobe PhotoShop, Adobe Illustrator],
-  architecture: ["System patterns design and Standards"],
-}
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:-->
+```text
+JSX          27 hrs 53 mins  █████████████████████▒░░░   84.89 % 
+JavaScript   3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
+<!--END_SECTION-->
+
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  7,936 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 663 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelnbl&show_icons=true&theme=gotham" alt="joelnbl" />
+
+
+
