@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Joel Bello](https://joelnbl.netlify.app/), a passionate self-taught Full Stack developer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Joel Bello](https://joelnbl.netlify.app/), a passionate self-taught Full Stack developer focus on MERN from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
