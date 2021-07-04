@@ -33,7 +33,7 @@ Hi, I'm [Joel Bello](https://joelnbl.netlify.app/), a passionate self-taught Ful
 
 📊 **My GitHub Most Used Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelnbl&layout=compact&theme=gotham" alt="joelnbl" />
+<img style="box-sizing: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelnbl&layout=compact&theme=gotham" alt="joelnbl" />
 
 📈 My GitHub Stats
 
