@@ -31,21 +31,12 @@ Hi, I'm [Joel Bello](https://joelnbl.netlify.app/), a passionate self-taught Ful
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:-->
-```text
-JSX          27 hrs 53 mins  █████████████████████▒░░░   84.89 % 
-JavaScript   3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-```
-<!--END_SECTION-->
+📊 **My GitHub Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelnbl&layout=compact&theme=gotham" alt="joelnbl" />
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelnbl&show_icons=true&theme=gotham" alt="joelnbl" />
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelnbl&show_icons=true&theme=gotham" alt="joelnbl" />
+</p>
